@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my Strava pipeline project.<br>🤔 Finding the possibilities to mash my remote sensing and AWS cloud computing.<br>💬 Let's discuss any data science and AWS cloud computing related stuff.<br>📫 How to reach me: Email - d.ajitchandran@icloud.com<br>
+🔭 I'm currently working on my Strava pipeline project.<br>🤔 Finding the possibilities to mash up remote sensing / Earth observatory  and AWS cloud computing.<br>💬 Let's discuss any data science and AWS cloud computing related stuff.<br>📫 How to reach me: Email - d.ajitchandran@icloud.com<br>
 
 
 ## 🌐 Socials:
